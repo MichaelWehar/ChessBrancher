@@ -1,0 +1,21 @@
+body {
+	padding-top: 20px;
+	/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+td{ vertical-align: top; }
+
+.table-bordered > tbody > tr > td,
+.table-bordered > thead > tr > td,
+.table-bordered {
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-radius: 4px;
+}
+		
+a:hover{opacity:0.4;}
+a.words:link{text-decoration: none; color: black;}
+a.words:visited{text-decoration: none; color: black;}

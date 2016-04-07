@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="ChessBrancher is a tool for the analysis and visualization of the valid gameplay tree.">
+    <meta name="author" content="">
+	
+	<link rel="shortcut icon" href="http://www.metatree.xyz/chessbrancher/icon.png">
+	<link rel="image_src" href="http://www.metatree.xyz/chessbrancher/icon.png">
+	<meta property="og:image" content="http://www.metatree.xyz/chessbrancher/icon.png">
+
+    <title>Chess Brancher</title>
+
+	<link href="css/chessbrancher.css" rel="stylesheet">
+	<link href="css/chessboard.css" rel="stylesheet">
+
+</head>
+
+<body>
+		
+	<center><p><b>ChessBrancher</b> is a tool for the analysis and visualization of the valid gameplay tree.</p>
+	<hr>
+	<br>
+	<h2>Enter FEN Code:</h2>
+	<input id='inputFen' type='text' onkeypress='clickEnter(event)'>
+	<button onclick='updateFen()' type='button'>Update</button>
+	</center>
+	
+	<br><br>
+	
+	<center><table class="table table-bordered table-condensed"><tbody><tr><td>
+			
+			<br><center><div id="board" style="width: 200px"></div></center><br>
+			<table id="tableboard" class="table table-bordered table-condensed"><tbody><tr id="firstRow"></tr></tbody></table>
+	
+	</td></tr></tbody></table></center>
+
+	
+	<br><br><br>
+	
+	<center>
+	<hr>
+	<p>* This tool utilizes <a href="https://github.com/jhlywa/chess.js">ChessJS</a>, <a href="https://github.com/oakmac/chessboardjs/">ChessboardJS</a>, and <a href="https://jquery.org/">JQuery</a>.</p>
+	</center>
+	
+	<br>
+
+    <!-- jQuery Version 1.11.1 -->
+    <script src="js/jquery.js"></script>
+	
+	<!-- Chessboard and Chessbranch -->
+	<script src="js/chess.js"></script>
+	<script src="js/chessboard.js"></script>
+	<script src="js/chessbrancher.js"></script>
+
+</body>
+
+</html>
