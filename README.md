@@ -16,8 +16,6 @@ Suggestions:
 
 3. Listing which color has the next move.
 
-More Suggestions:
-
 4. Option for collapsing a branch.
 
 5. Remove a branch.
