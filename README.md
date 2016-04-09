@@ -18,14 +18,14 @@ Suggestions:
 
 More Suggestions:
 
-a. Option for collapsing a branch.
+4. Option for collapsing a branch.
 
-b. Remove a branch.
+5. Remove a branch.
 
-c. Note taking (comments for position).
+6. Note taking (comments for position).
 
-d. Tick Mark, to indicate, the move is already analyzed. 
+7. Tick Mark, to indicate, the move is already analyzed. 
 
-e. Get a list of moves (from the start FEN) or the latest FEN for  any position.
+8. Get a list of moves (from the start FEN) or the latest FEN for  any position.
 
 Thank you very much to Tamal for providing many of these great suggestions!
