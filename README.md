@@ -10,22 +10,22 @@ Please feel free to join in on development and share with your friends.
 # To-Do List
 Suggestions:
 
-A. After every position if you can provide the move played, and the move number.
+1. After every position if you can provide the move played, and the move number.
 
-B. Highlighting the move played (from and to square) also would be nice.
+2. Highlighting the move played (from and to square) also would be nice.
 
-C. Listing which color has the next move.
+3. Listing which color has the next move.
 
 More Suggestions:
 
-1. Option for collapsing a branch.
+a. Option for collapsing a branch.
 
-2. Remove a branch.
+b. Remove a branch.
 
-3. Note taking (comments for position).
+c. Note taking (comments for position).
 
-4. Tick Mark, to indicate, the move is already analyzed. 
+d. Tick Mark, to indicate, the move is already analyzed. 
 
-5. Get a list of moves (from the start FEN) or the latest FEN for  any position.
+e. Get a list of moves (from the start FEN) or the latest FEN for  any position.
 
 Thank you very much to Tamal for providing many of these great suggestions!
