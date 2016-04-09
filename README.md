@@ -10,11 +10,11 @@ Please feel free to join in on development and share with your friends.
 # To-Do List
 Suggestions:
 
-a. After every position if you can provide the move played, and the move number.
+A. After every position if you can provide the move played, and the move number.
 
-b. Highlighting the move played (from and to square) also would be nice.
+B. Highlighting the move played (from and to square) also would be nice.
 
-c. Listing which color has the next move.
+C. Listing which color has the next move.
 
 More Suggestions:
 
