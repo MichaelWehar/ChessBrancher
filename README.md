@@ -10,7 +10,7 @@ Please feel free to join in on development and share with your friends.
 # To-Do List
 Suggestions:
 
-1. After every position if you can provide the move played, and the move number.
+1. After every position if you can provide the move played and the move number.
 
 2. Highlighting the move played (from and to square) also would be nice.
 
