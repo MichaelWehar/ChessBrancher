@@ -28,4 +28,6 @@ Suggestions:
 
 9. Have an option for the tree to expand to the right instead of downward.
 
+10. Allow the special move en passant.  Also, fix castling so that it follows the rules of chess.
+
 Thank you very much to Tamal and themusicdan for providing great suggestions!
