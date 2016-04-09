@@ -26,4 +26,6 @@ Suggestions:
 
 8. Get a list of moves (from the start FEN) or the latest FEN for  any position.
 
-Thank you very much to Tamal for providing many of these great suggestions!
+9. Have an option for the tree to expand to the right instead of downward.
+
+Thank you very much to Tamal and themusicdan for providing great suggestions!
