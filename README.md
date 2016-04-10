@@ -16,7 +16,7 @@ Suggestions:
 
 3. Listing which color has the next move.
 
-4. Option for collapsing a branch (with or without still having the sequence of moves remain visible).
+4. Option for collapsing a branch (with or without having the sequence of moves remain visible).
 
 5. Remove a branch.
 
