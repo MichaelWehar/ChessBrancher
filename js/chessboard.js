@@ -7,6 +7,11 @@
  *
  * Date: 10 Aug 2013
  */
+ 
+/*!
+ * Minor modifications made by Michael Wehar.
+ * Date: 12 Dec 2015
+ */
 
 // start anonymous scope
 ;(function() {

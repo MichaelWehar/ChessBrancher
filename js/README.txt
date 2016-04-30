@@ -1,0 +1,1 @@
+Note: Minor modifications were made to the chess.js and chessboard.js files.

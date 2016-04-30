@@ -33,6 +33,11 @@
  * Released under the BSD license
  * https://github.com/jhlywa/chess.js/blob/master/LICENSE
  */
+ 
+ /*!
+ * Minor modifications made by Michael Wehar.
+ * Date: 9 Dec 2015
+ */
 
 var Chess = function(fen) {
 
