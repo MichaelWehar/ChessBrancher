@@ -1,3 +1,5 @@
+/* Author: Michael Wehar */
+
 var game = Chess();
 var turn = {};
 
