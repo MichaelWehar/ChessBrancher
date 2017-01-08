@@ -1,7 +1,7 @@
 # ChessBrancher
 ChessBrancher is a tool for the analysis and visualization of the valid gameplay tree.
 
-See more background on the project: https://getmeed.com/michaelwehar/stories/chessbrancher?referrer=michaelwehar
+See more background on the project: https://github.com/MichaelWehar/ChessBrancher/blob/master/background.pdf
 
 # Demo
 Please demo the code here: http://metatree.xyz/chessbrancher/
